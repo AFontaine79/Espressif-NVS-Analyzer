@@ -102,6 +102,10 @@ Namespace nvs.net80211
   ...
 ```
 
+# Known Limitations
+
+The script does not handle encrypted NVS stores.
+
 # Further Reading
 
 [Espressif NVS API reference](https://docs.espressif.com/projects/esp-idf/en/stable/esp32/api-reference/storage/nvs_flash.html)

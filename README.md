@@ -94,7 +94,7 @@ Namespace nvs.net80211
   ap.passwd       : BLOB  12345678
   ...
   
-  D:\Users\AFont\Documents\Projects\softAP>analyze_nvs.py nvs_readout.bin
+D:\Users\AFont\Documents\Projects\softAP>analyze_nvs.py nvs_readout.bin
 Namespace nvs.net80211
   ...
   ap.ssid         : BLOB  07 00 00 00 65 73 70 33 32 61 70 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
